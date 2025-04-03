@@ -1,4 +1,4 @@
-Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) that I'm trying to refine for my own tastes
+Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) and forked from (https://github.com/StephanRaab/Art_Curriculum) I'll try to complete it based on the free document
 
 # Term 1
 
@@ -7,6 +7,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 [] [💵 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
 
 [] [🆓 Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+[] [🆓 Love Life Drawing] need to register to access the content (https://www.lovelifedrawing.com/#signup)
 
 > [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
