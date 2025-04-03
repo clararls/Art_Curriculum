@@ -1,4 +1,4 @@
-Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) and forked from (https://github.com/StephanRaab/Art_Curriculum) I'll try to complete it based on the free document
+Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) and forked from [Art_Curriculum](https://github.com/StephanRaab/Art_Curriculum) I'll try to complete it, based on the free document
 
 # Term 1
 
@@ -8,7 +8,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 [] [🆓 Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
-[] [🆓 Love Life Drawing] need to register to access the content (https://www.lovelifedrawing.com/#signup)
+[] [🆓 Love Life Drawing](https://community2.lovelifedrawing.com/c/fresh-eyes/) need to register to access the Fresh Eyes Challenge, but in 2020 they made Figuary videos (a few of them are hide but we can still get info from the rest) [Figuary Playlist](https://www.youtube.com/playlist?list=PL8UOmgiUNMCQkDirsa6U9QK-y9Wk4FF0i)
 
 > [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
@@ -74,3 +74,60 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 a. draw the gesture of a reference.
 b. mannequinize it.
 c. draw a new, exaggerated gesture based on mannequin
+
+# Term 3
+
+## Perspective 3
+
+## Anatomy 3 - Arms
+
+## Clothed Figure Drawing
+
+# Term 4
+
+## Color & Light 1
+
+## Perspective 4
+
+## Anatomy 4 - Legs
+
+# Term 5
+
+## Intro to Animals
+
+## Perspective 5
+
+## Color & light 2
+
+
+# Term 6
+
+## Character Design
+
+## Composition & Storytelling 2
+
+## Perspective 6
+
+# Term 7
+
+## Anatomy 5 - Imagination
+
+## Perspective 7
+
+## Enviroment Design 1
+
+# Term 8
+
+## Enviroment design 2
+
+## Painting 1
+
+## Anatomy 6 - Caricature/Animal
+
+# Term 9
+
+## Painting 2
+
+## Painting 3 - Matte Painting
+
+## Personal Project
