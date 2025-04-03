@@ -7,6 +7,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 [] [💵 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
 
 [] [🆓 Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+
 [] [🆓 Love Life Drawing] need to register to access the content (https://www.lovelifedrawing.com/#signup)
 
 > [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
