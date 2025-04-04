@@ -32,7 +32,7 @@ Sometimes we feel like our level is bellow than the exercises on the first term,
 ## U1 Figure Drawing 1 
 Do the gesture challenge concurrently with the figure drawing course. In the early stages, learning the flow of gesture is the most important thing - it prevents stiffness in your drawings
 
-- [📼 Proko: Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+- [📼 Proko: Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLtG4P3lq8RHGuMuprDarMz_Y9Fbw_d2ws)
 
 - [📼 Love Life Drawing: Figuary](https://www.lovelifedrawing.com/figuary/) -- Love Life Drawing have put together a FREE ten-day challenge [Fresh Eyes Challenge](https://community2.lovelifedrawing.com/c/fresh-eyes/) but need to register to access.
 
