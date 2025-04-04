@@ -27,15 +27,18 @@ Sometimes we feel like our level is bellow than the exercises on the first term,
 
 # Term 1 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
 
-## Figure Drawing 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## Figure Drawing 1 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
+Do the gesture challenge concurrently with the figure drawing course. In the early stages, learning the flow of gesture is the most important thing - it prevents stiffness in your drawings
 
-- [🆓 Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+- [🆓 Proko: Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
-- [🆓 Love Life Drawing](https://community2.lovelifedrawing.com/c/fresh-eyes/) need to register to access the Fresh Eyes Challenge, but in 2020 they made Figuary videos (a few of them are hidden but we can still get info from the rest) [Figuary Playlist](https://www.youtube.com/playlist?list=PL8UOmgiUNMCQkDirsa6U9QK-y9Wk4FF0i)
+- [🆓 Love Life Drawing: Figuary](https://www.lovelifedrawing.com/figuary/) -- Love Life Drawing have put together a FREE ten-day challenge [Fresh Eyes Challenge](https://community2.lovelifedrawing.com/c/fresh-eyes/) but need to register to access.
 
 - [💰 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
 
-> [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
+> Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
+
+> Alternative: 30 days of a series of short poses as follows: three 1 minute poses, two 2 minute poses, one 5 minute pose per day, you can use [Line of Action](https://line-of-action.com/practice-tools/app#/figure-drawing) or [SketchDaily](https://www.sketchdaily.net/) those are free reference sites with timers.
 
 ## Perspective 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
