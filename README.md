@@ -1,8 +1,21 @@
-Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) and forked from [Art_Curriculum](https://github.com/StephanRaab/Art_Curriculum) I'll try to complete it, based on the free document
+Hi 👋!! My name is Clara and I (as many of us) tried a few times learn how to draw properly, unsuccesfully. So I'm going to compile the new courses, videos to improve the information provided in the Art curriculum Solo Artist,based on the free document he provide on his [gumroad](https://alexhuneycutt.gumroad.com/l/free_curriculum) and on the 
+[Reddit post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/), but with my touch.  (
 
-# Term 1
+If you want a more visual and easy access to the old data you have [here](https://www.soloartcurriculum.com/) this amazing page, made by [Brendan Meachen](https://www.brendanmeachen.com/)
 
-## Figure Drawing 1
+Forked from [Art_Curriculum](https://github.com/StephanRaab/Art_Curriculum). Also I will colour code each term and unit so that everyone has access to its status.
+
+![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
+![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
+![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
+![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+![Static Badge](https://img.shields.io/badge/Status-On_hold-F1C40F)
+
+
+
+# Term 1 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
+
+## Figure Drawing 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 [] [💵 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
 
@@ -12,7 +25,7 @@ Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r
 
 > [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
-## Perspective 1
+## Perspective 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
  [] [🆓 Drawabox Lessons 0-3](https://drawabox.com/lesson/0), [all lessons](https://docs.google.com/spreadsheets/d/1R4msWQRk4g-fSlJ8Kn6N9QSarws7DAMm3ZKqTgkgTmA/edit#gid=0)
 
@@ -21,7 +34,7 @@ Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r
 > [] [250 box challenge](https://drawabox.com/lesson/250boxes)
 > [] [250 cylinder challenge](https://drawabox.com/lesson/250cylinders)
 
-## Composition and storytelling 1
+## Composition and storytelling 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
  [] [🆓 Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
 
@@ -32,10 +45,10 @@ Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r
 > [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
 > [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
 
-# Term 2
+# Term 2 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
 
-## Anatomy 1 - The Head
-
+## Anatomy 1 - The Head ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+ 
 [] [🆓 Understanding & Painting the head, Marco Bucci](https://marcobucciartstore.com/products/understanding-and-painting-the-head)
 
 [] [🆓 Proko: The Loomis Method](https://www.youtube.com/playlist?list=PL39135B8D190B7C97)
@@ -50,7 +63,7 @@ Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r
 
 > [] [Ahmed Aldoori's 100 head challenge](https://www.youtube.com/watch?v=0A_kQsxeeTE), [heads are here](https://www.pinterest.com/aaldoori/portrait/)
 
-## Perspective 2
+## Perspective 2 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 [] [🆓 Drawabox Lessons 4-7](https://drawabox.com/lesson/4)
 
@@ -64,7 +77,7 @@ Art curriculum Solo Artist, based on this [Reddit post](https://www.reddit.com/r
 > [] Rotate 50 boxes
 > [] Rotate 50 cylinders
 
-## Anatomy 2 - The Torso
+## Anatomy 2 - The Torso ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 [] [💵 Anatomy of the human body for artists: Torso, Proko Premium](https://www.proko.com/human-anatomy-for-artists/)
 
@@ -75,7 +88,7 @@ a. draw the gesture of a reference.
 b. mannequinize it.
 c. draw a new, exaggerated gesture based on mannequin
 
-# Term 3
+# Term 3 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Perspective 3
 
@@ -83,7 +96,7 @@ c. draw a new, exaggerated gesture based on mannequin
 
 ## Clothed Figure Drawing
 
-# Term 4
+# Term 4 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Color & Light 1
 
@@ -91,7 +104,7 @@ c. draw a new, exaggerated gesture based on mannequin
 
 ## Anatomy 4 - Legs
 
-# Term 5
+# Term 5 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Intro to Animals
 
@@ -100,15 +113,15 @@ c. draw a new, exaggerated gesture based on mannequin
 ## Color & light 2
 
 
-# Term 6
+# Term 6 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Character Design
 
 ## Composition & Storytelling 2
 
 ## Perspective 6
-
-# Term 7
+ 
+# Term 7 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Anatomy 5 - Imagination
 
@@ -116,7 +129,7 @@ c. draw a new, exaggerated gesture based on mannequin
 
 ## Enviroment Design 1
 
-# Term 8
+# Term 8 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Enviroment design 2
 
@@ -124,10 +137,12 @@ c. draw a new, exaggerated gesture based on mannequin
 
 ## Anatomy 6 - Caricature/Animal
 
-# Term 9
+# Term 9 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
 ## Painting 2
 
 ## Painting 3 - Matte Painting
 
 ## Personal Project
+
+Disclaimer: I am no art expert, but I am asking people who are to corroborate the information, if anyone knows of a good free resource, please create a pull request and I will add it.
