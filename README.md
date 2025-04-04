@@ -36,7 +36,7 @@ Do the gesture challenge concurrently with the figure drawing course. In the ear
 
 - [📼 Love Life Drawing: Figuary](https://www.lovelifedrawing.com/figuary/) -- Love Life Drawing have put together a FREE ten-day challenge [Fresh Eyes Challenge](https://community2.lovelifedrawing.com/c/fresh-eyes/) but need to register to access.
 
-- [💰 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
+- [💰 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/) > You can check here most of the videos for free
 
 > Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
