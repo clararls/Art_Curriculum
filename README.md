@@ -40,8 +40,8 @@ Do the gesture challenge concurrently with the figure drawing course. In the ear
 
 > Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
-> Alternative: 30 days of a series of short poses as follows: three 1 minute poses, two 2 minute poses, one 5 minute pose per day, you can use [Line of Action](https://line-of-action.com/practice-tools/app#/figure-drawing) or [SketchDaily](https://www.sketchdaily.net/) those are free reference sites with timers.
-
+> Alternative: 30 days of a series of short poses as follows: three 1 minute poses, two 2 minute poses, one 5 minute pose per day, you can use [Line of Action](https://line-of-action.com/practice-tools/app#/figure-drawing) or [SketchDaily](https://www.sketchdaily.net/) those are free reference sites with timers. Line of action have a 15-min sketches covering the bases [https://line-of-action.com/en/learn-to-draw]
+ 
 ## U2 Perspective 1 
 Drawabox is a (very) dense course, and important for your foundation in draftsmanship. The recommended order would be **Lesson 1**, **250 box challenge**, then into **Lesson 2** and when you get on the **Texture and Detail** part, go and do the **25 textures challenge** *at the same time*, but one row at the time. I also added a quick video to understand perspective, but watch it when you get to lesson 1. 
 
