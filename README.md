@@ -14,7 +14,7 @@ Forked from [Art_Curriculum](https://github.com/StephanRaab/Art_Curriculum). Als
 
 Disclaimer: I am no art expert. I'm adding what's from RadioRunner and from my experience, so if anyone knows of a good free resource, please create a pull request and I will add it. Thanks !!
 ## Important
-The recommended order to complete this curriculum is spend 4 weeks per unit
+The recommended time to complete this curriculum is spend 4 weeks per unit
 
 # Extra: Term 0 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
 Sometimes we feel like our level is bellow than the exercises on the first term, but is only a matter of seeing some kind of improvement. So I leave here a few resources that help me to build confidence.
