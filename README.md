@@ -13,8 +13,10 @@ Forked from [Art_Curriculum](https://github.com/StephanRaab/Art_Curriculum). Als
 
 
 Disclaimer: I am no art expert. I'm adding what's from RadioRunner and from my experience, so if anyone knows of a good free resource, please create a pull request and I will add it. Thanks !!
+## Important
+The recommended order to complete this curriculum is spend 4 weeks per unit
 
-# Extra Term 0 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
+# Extra: Term 0 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
 Sometimes we feel like our level is bellow than the exercises on the first term, but is only a matter of seeing some kind of improvement. So I leave here a few resources that help me to build confidence.
 
 - [📼 Brad's Art School: Learn how to draw for beginners](https://youtu.be/Wz6DrQeQ5rI?si=5wB3xpOkqd9DoSrs)
@@ -25,9 +27,9 @@ Sometimes we feel like our level is bellow than the exercises on the first term,
 
 > Check and do the excersices from videos then if you want, lesson 1 till lesson 7 from the book, but feel free to continue as you want, if not, go to Term 1.
 
-# Term 1 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
+# Term 1 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
 
-## Figure Drawing 1 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
+## U1 Figure Drawing 1 
 Do the gesture challenge concurrently with the figure drawing course. In the early stages, learning the flow of gesture is the most important thing - it prevents stiffness in your drawings
 
 - [📼 Proko: Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
@@ -40,8 +42,8 @@ Do the gesture challenge concurrently with the figure drawing course. In the ear
 
 > Alternative: 30 days of a series of short poses as follows: three 1 minute poses, two 2 minute poses, one 5 minute pose per day, you can use [Line of Action](https://line-of-action.com/practice-tools/app#/figure-drawing) or [SketchDaily](https://www.sketchdaily.net/) those are free reference sites with timers.
 
-## Perspective 1 ![Static Badge](https://img.shields.io/badge/Status-Completed-2ECC71)
-Drawabox is a (very) dense course, and important for your foundation in draftsmanship. If anything, extend the length of this unit and cut the next one short. The recommended order would be **Lesson 1**, *250 box challenge**, then into **Lesson 2** and when you get on the **Texture and Detail** part, go and do the **25 textures challenge** *at the same time*, but one row at the time. I also added a quick video to understand perspective, but watch it when you get to lesson 1. 
+## U2 Perspective 1 
+Drawabox is a (very) dense course, and important for your foundation in draftsmanship. The recommended order would be **Lesson 1**, **250 box challenge**, then into **Lesson 2** and when you get on the **Texture and Detail** part, go and do the **25 textures challenge** *at the same time*, but one row at the time. I also added a quick video to understand perspective, but watch it when you get to lesson 1. 
 
 - [🆓 Drawabox Lessons 0-2](https://drawabox.com/)
 
@@ -53,7 +55,10 @@ Drawabox is a (very) dense course, and important for your foundation in draftsma
  
 > [25 textures challenge](https://drawabox.com/lesson/25textures)
 
-## Composition and storytelling 1 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## U3 Composition and storytelling 1
+Just more a theorical unit, before jumping directly into next term. Sycra's video on "iterative Drawing" is a great one to learn how to challenge yourself to create variations - whether they're good or bad.
+
+- [📼 Blender Guru: Understanding Composition](https://youtu.be/O8i7OKbWmRM?si=_JYWXR-_JIS98cm6)
 
 - [📼 Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
 
@@ -61,12 +66,12 @@ Drawabox is a (very) dense course, and important for your foundation in draftsma
 
 - [📼 Sycra: Effective composition using shapes](https://www.youtube.com/watch?v=SNmwQumlvbQ)
 
-> [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
-> [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
+> [Watch Sycra's video about iterative drawing and iterate on 3 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
+
 
 # Term 2 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
 
-## Anatomy 1 - The Head ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## U4 Anatomy 1 - The Head ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
  
 - [🆓 Understanding & Painting the head, Marco Bucci](https://marcobucciartstore.com/products/understanding-and-painting-the-head)
 
@@ -82,7 +87,7 @@ Drawabox is a (very) dense course, and important for your foundation in draftsma
 
 > [] [Ahmed Aldoori's 100 head challenge](https://www.youtube.com/watch?v=0A_kQsxeeTE), [heads are here](https://www.pinterest.com/aaldoori/portrait/)
 
-## Perspective 2 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## U5 Perspective 2 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 - [🆓 Drawabox Lessons 4-7](https://drawabox.com/lesson/4)
 
@@ -96,7 +101,7 @@ Drawabox is a (very) dense course, and important for your foundation in draftsma
 > [] Rotate 50 boxes
 > [] Rotate 50 cylinders
 
-## Anatomy 2 - The Torso ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## U6 Anatomy 2 - The Torso ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 - [📼 Proko torso anatomy](https://www.youtube.com/playlist?list=PLo1MyIYOwxxyd_9kkipZV9gnJTYAPAXNG)
 
@@ -109,57 +114,57 @@ c. draw a new, exaggerated gesture based on mannequin
 
 # Term 3 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Perspective 3
+## U7 Perspective 3
 
-## Anatomy 3 - Arms
+## U8 Anatomy 3 - Arms
 
-## Clothed Figure Drawing
+## U9 Clothed Figure Drawing
 
 # Term 4 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Color & Light 1
+## U10 Color & Light 1
 
-## Perspective 4
+## U11 Perspective 4
 
-## Anatomy 4 - Legs
+## U12 Anatomy 4 - Legs
 
 # Term 5 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Intro to Animals
+## U13 Intro to Animals
 
-## Perspective 5
+## U14 Perspective 5
 
-## Color & light 2
+## U15 Color & light 2
 
 
 # Term 6 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Character Design
+## U16 Character Design
 
-## Composition & Storytelling 2
+## U17 Composition & Storytelling 2
 
-## Perspective 6
+## U18 Perspective 6
  
 # Term 7 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Anatomy 5 - Imagination
+## U19 Anatomy 5 - Imagination
 
-## Perspective 7
+## U20 Perspective 7
 
-## Enviroment Design 1
+## U21 Enviroment Design 1
 
 # Term 8 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Enviroment design 2
+## U22 Enviroment design 2
 
-## Painting 1
+## U23 Painting 1
 
-## Anatomy 6 - Caricature/Animal
+## U24 Anatomy 6 - Caricature/Animal
 
 # Term 9 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
-## Painting 2
+## U25 Painting 2
 
-## Painting 3 - Matte Painting
+## U26 Painting 3 - Matte Painting
 
 ## Personal Project
