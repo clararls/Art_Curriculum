@@ -89,7 +89,7 @@ Just more a theorical unit, before jumping directly into next term. Sycra's vide
 
 ## U5 Perspective 2 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
-- [🆓 Drawabox Lessons 4-7](https://drawabox.com/lesson/4)
+- [🆓 Drawabox Lessons 3-7](https://drawabox.com/lesson/4)
 
 - [📼 ModernDayJames: Perspective 1](https://youtu.be/nAlCyQqEZSU)
 
@@ -112,13 +112,35 @@ a. draw the gesture of a reference.
 b. mannequinize it.
 c. draw a new, exaggerated gesture based on mannequin
 
-# Term 3 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
+# Term 3 ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
 
-## U7 Perspective 3
+## U7 Perspective 3 ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
-## U8 Anatomy 3 - Arms
+- 📚 How to Draw from Scott Robertson. But check this first [Drawabox Blog: how to use H2D](https://drawabox.com/article/h2d)
 
-## U9 Clothed Figure Drawing
+- [📼 ModernDayJames: Perspective 3](https://youtu.be/5gBpf47phh0?si=Jm6j0chzf5SxR9x_)
+
+- [📼 ModernDayJames: Perspective 4](https://youtu.be/03IrOGkbaZc?si=SJfDRfNUn0SX00s3)
+
+- [📼 ModernDayJames: Perspective 5](https://youtu.be/2XF5YuAK63I?si=doRi1SmPkBjsnJmr)
+
+> [25 wheel challenge](https://drawabox.com/lesson/25wheels)
+ 
+## U8 Anatomy 3 - Arms ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
+
+- [📼 Proko: Anatomy of the Human Body for artist focused on arms](https://youtube.com/playlist?list=PLGdORlgpQW-hUK2eJSsERi9SiiUugUxHm&si=n5NsTqf0Jls_wfyu)
+
+- [📼 ModernDayJames: Elements of character](https://youtu.be/xGhYfLQWbp0?si=D3AlQN0AyMjRGJkY)
+
+- [📼 ModernDayJames: Drawing the arm](https://youtu.be/Qr-cR4HKviY?si=y9fnD1MIP7-XtcZ-)
+
+- [📼 ModernDayJames: Drawing the hand](https://youtu.be/I0iZCGtVa8I?si=QgLYxeondufoAm6a)
+
+- [💰 Anatomy of the Human Body for Artis - Proko Premium](https://static.proko.com/static/course-lesson/introduction-to-human-anatomy-for-artists) Focus on arms.
+
+> Draw 100 hands; If you need some ideas please check out [Drawing with Pri blog](https://drawingwithpri.art/blogs/blog/100-hands-challenge)
+
+## U9 Clothed Figure Drawing ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
 
 # Term 4 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
