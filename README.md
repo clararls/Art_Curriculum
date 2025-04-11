@@ -126,7 +126,8 @@ c. draw a new, exaggerated gesture based on mannequin
 
 > [25 wheel challenge](https://drawabox.com/lesson/25wheels)
  
-## U8 Anatomy 3 - Arms ![Static Badge](https://img.shields.io/badge/Status-In_progress-3498DB)
+## U8 Anatomy 3 - Arms 
+The chanllenge is especially important in this unit. Most artist's will agree taht hands, and drawing people from imagination are dificult. It's important to face your weaknesses head on.
 
 - [📼 Proko: Anatomy of the Human Body for artist focused on arms](https://youtube.com/playlist?list=PLGdORlgpQW-hUK2eJSsERi9SiiUugUxHm&si=n5NsTqf0Jls_wfyu)
 
@@ -136,11 +137,24 @@ c. draw a new, exaggerated gesture based on mannequin
 
 - [📼 ModernDayJames: Drawing the hand](https://youtu.be/I0iZCGtVa8I?si=QgLYxeondufoAm6a)
 
-- [💰 Anatomy of the Human Body for Artis - Proko Premium](https://static.proko.com/static/course-lesson/introduction-to-human-anatomy-for-artists) Focus on arms.
+- [💰 Anatomy of the Human Body for Artist - Proko Premium](https://static.proko.com/static/course-lesson/introduction-to-human-anatomy-for-artists) Focus on arms.
 
 > Draw 100 hands; If you need some ideas please check out [Drawing with Pri blog](https://drawingwithpri.art/blogs/blog/100-hands-challenge)
 
-## U9 Clothed Figure Drawing ![Static Badge](https://img.shields.io/badge/Status-Need_Update-E67E22)
+## U9 Clothed Figure Drawing
+- [📼 ModernDayJames: Cloth and drapery 1](https://youtu.be/S1eR1rcPlHc?si=DEBQXQLjgsdGJo5o)
+ 
+- [📼 ModernDayJames: Cloth and drapery 2](https://youtu.be/Wz7SdRoMhT4?si=res6BGtpHiD0AxMT)
+
+- [ Sinix: Clothing Folds and You](https://www.youtube.com/watch?v=vIO4ODhm0tc)
+
+- [📼 Marc Brunet: How to draw clothing folds perfectly every time](https://www.youtube.com/watch?v=uqo2h8fsMAM)
+
+- [📼 Marco Bucci: Understanding Every Type of clothing Fold](https://www.youtube.com/watch?v=d07NanfYT8U)
+
+- 📚 Drawing People from Barbara Bradley
+
+> Draw for 30 days Figure Clothed (5x 1' + 5x 2' + 3x 5' or 1x 10' sketches) you can use Line of Action from unit 1.
 
 # Term 4 ![Static Badge](https://img.shields.io/badge/Status-To_do-E74C3C)
 
